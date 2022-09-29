@@ -6,4 +6,4 @@
 
 # cd CLONING
 
-# python ALBIDA_SHIHAB.py
+# python ALBIDA-SHIHAB.py
